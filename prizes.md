@@ -2,7 +2,7 @@
 title: Preise
 description: Preisliste
 published: true
-date: 2023-04-21T20:02:53.979Z
+date: 2023-04-21T20:03:57.697Z
 tags: preise, gewinne, wettbewerbe
 editor: markdown
 dateCreated: 2023-04-21T15:43:52.698Z
@@ -41,7 +41,7 @@ Jeder Sieg im offiziellen Turnier wird mit einem **Wanderpokal** belohnt!
 
 Folgende Wettbewerbe können außerdem gewonnen werden:
 > ### Frankenstein
-> **Größte differenz zwischen der Ältesten und neuesten PC-Komponente**
+> **Größte Differenz zwischen der Ältesten und neuesten PC-Komponente**
 {.is-info}
 
 
@@ -56,7 +56,7 @@ Folgende Wettbewerbe können außerdem gewonnen werden:
 
 
 > ### Gotta go fast
-> **CPU mit der höchsten Tacktung**
+> **CPU mit der höchsten Taktung**
 > Um diese Kategorie zu gewinnen muss nur der Homescreen erreicht werden
 {.is-info}
 
@@ -65,7 +65,7 @@ Folgende Wettbewerbe können außerdem gewonnen werden:
 > **Schmutzigste Tastatur**
 >
 > Bei diesem Wettbewerb gibt es ein Reinigungs-Set zu gewinnen!
-> Das Anschließende verwenden von selbigem ist verpflichtend!
+> Das Anschließende verwenden von diesem ist verpflichtend!
 {.is-info}
 
 

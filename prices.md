@@ -2,7 +2,7 @@
 title: Preise
 description: Preisliste
 published: true
-date: 2023-04-21T20:02:41.170Z
+date: 2023-04-21T20:02:53.979Z
 tags: preise, gewinne, wettbewerbe
 editor: markdown
 dateCreated: 2023-04-21T15:43:52.698Z

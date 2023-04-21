@@ -2,7 +2,7 @@
 title: Fachschaft Informatik LAN-Party
 description: Home Seite
 published: true
-date: 2023-04-21T07:36:08.327Z
+date: 2023-04-21T20:38:43.836Z
 tags: home
 editor: markdown
 dateCreated: 2023-04-19T23:57:36.028Z
@@ -19,6 +19,9 @@ Hier findet ihr alle Informationen, die ihr vor während und ggf. nach der LAN-P
 
 Hier geht's weiter:
 > [Tickets](https://tickets.nak-lan.de)
+{.is-success}
+
+> [Preise](/prizes) im Wert von insgesammt **500€**
 {.is-success}
 
 > [FAQ](/de/faq)

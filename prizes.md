@@ -2,7 +2,7 @@
 title: Preise
 description: Preisliste
 published: true
-date: 2023-04-21T20:37:37.482Z
+date: 2023-04-21T20:39:06.853Z
 tags: preise, gewinne, wettbewerbe
 editor: markdown
 dateCreated: 2023-04-21T15:43:52.698Z
@@ -34,7 +34,7 @@ Jeder Sieg im offiziellen Turnier wird mit einem **Wanderpokal** belohnt!
 
 
 
-## Preise
+## Wettbewerbe
 > Für Setups gibt es insgesamt **200€** zu gewinnen
 {.is-success}
 

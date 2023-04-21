@@ -2,32 +2,32 @@
 title: Preise
 description: Preisliste
 published: true
-date: 2023-04-21T20:00:57.608Z
+date: 2023-04-21T20:02:41.170Z
 tags: preise, gewinne, wettbewerbe
 editor: markdown
 dateCreated: 2023-04-21T15:43:52.698Z
 ---
 
 # Preise
-> ## Gesammter-Preiswert: 500€
+> ## Gesamter-Preiswert: 500€
 {.is-warning}
 
 
 
-## Tuniere
+## Turniere
 
-> ## Gesammter-Preiswert Tuniere: 300€
-> Bei jedemWettbewerb gibt es einen Wanderpokal
+> ## Gesamter-Preiswert Turniere: 300€
+> Bei jedem Wettbewerb gibt es einen Wanderpokal
 {.is-success}
 
 
 
-Jeder Sieg im offiziellen Tunier wird mit einem **Wanderpokal** belohnt! 
+Jeder Sieg im offiziellen Turnier wird mit einem **Wanderpokal** belohnt! 
 
 |Wettkampf   			|1. Preis   							| 2. Preis								|	3. Preis								|
 |---							|---											|---											|	---											|
-|CS:GO Tunier   	| 5x 10€ Steam-Gutschein	| 5x 10€ Steam-Gutschein	| -												|
-|LOL Tunier   		| 5x 10€ Riot Points			| 5x 10€ Riot Points			| -												|
+|CS:GO Turnier   	| 5x 10€ Steam-Gutschein	| 5x 10€ Steam-Gutschein	| -												|
+|LOL Turnier   		| 5x 10€ Riot Points			| 5x 10€ Riot Points			| -												|
 |Minecraft				| 50€ Geschenkkarte^1^		| 25€ Geschenkkarte^1^ 		| 25€ Geschenkkarte^1^		|
 
 ^1^ Geschenkkarte von Steam, Riot, NAK-Shop, Kurzgesagt oder Amazon
@@ -35,7 +35,7 @@ Jeder Sieg im offiziellen Tunier wird mit einem **Wanderpokal** belohnt!
 
 
 ## Preise
-> Für Setups gibt es instesammt **200€** zu gewinnen
+> Für Setups gibt es insgesamt **200€** zu gewinnen
 {.is-success}
 
 

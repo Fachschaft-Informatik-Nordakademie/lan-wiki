@@ -1,8 +1,8 @@
 ---
-title: Preise
-description: Preisliste
+title: Gewinne
+description: Gewinn liste
 published: true
-date: 2023-04-21T20:39:06.853Z
+date: 2023-04-23T11:14:01.143Z
 tags: preise, gewinne, wettbewerbe
 editor: markdown
 dateCreated: 2023-04-21T15:43:52.698Z

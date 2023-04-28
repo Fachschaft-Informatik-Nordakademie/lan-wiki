@@ -2,7 +2,7 @@
 title: Minecraft Server
 description: Beschreibung für die Nutzung der Minecraft Server
 published: true
-date: 2023-04-28T17:15:18.578Z
+date: 2023-04-28T17:18:34.325Z
 tags: on-opremis, lan-party, minecraft
 editor: markdown
 dateCreated: 2023-04-28T17:14:14.463Z
@@ -12,7 +12,7 @@ dateCreated: 2023-04-28T17:14:14.463Z
 
 Hier die Beschreibung der Minecraft Server
 
-> Minecraft Performance optimierungen
+> Minecraft Performance Optimierungen: LINK
 {.is-danger}
 
 
